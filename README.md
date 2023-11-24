@@ -7,6 +7,8 @@
 
 ![Renan Marcelino GitHub stats](https://github-readme-stats.vercel.app/api?username=Renan-Marcelino&show_icons=true&theme=dracula)
 
+[![MAIS USADAS](https://github-readme-stats.vercel.app/api/top-langs/?username=Renan-Marcelino)](https://github.com/Renan-Marcelino/github-readme-stats)
+
 ## Tecnologias que eu uso no meu dia 
 
 <div style="display: inline_block"><br/>
@@ -23,7 +25,8 @@ Estudante de Analise e Desenvolvimento de Sistemas no Centro Universitario Senac
 ### Contato via WhatsApp:
 [![WHATS](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5511956497866)
 
+### Contato via Gmail:
+
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcRzDsPhGdxnxlngVPFWrXzmncnmcbfFggxMjsDftBlHzzngbllwsBnKTGxdQqTLPsWRKtGCV)
 
 
-[![MAIS USADAS](https://github-readme-stats.vercel.app/api/top-langs/?username=Renan-Marcelino)](https://github.com/Renan-Marcelino/github-readme-stats)
