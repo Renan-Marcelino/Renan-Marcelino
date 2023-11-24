@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-m-b2218113a)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Renan-Marcelino)
-[![GitHub](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/~)
+[![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/~)
 
 
 ![Renan Marcelino GitHub stats](https://github-readme-stats.vercel.app/api?username=Renan-Marcelino&show_icons=true&theme=dracula)
@@ -16,4 +16,14 @@
     <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
     <img align="center" alt="PYTON" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
     <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-</div>
+</div><br/>
+
+Estudante de Analise e Desenvolvimento de Sistemas no Centro Universitario Senac no 3° Semestre, Buscando a Primeira oportunidade na Area da Tecnologia.
+
+### Contato via WhatsApp:
+[![WHATS](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5511956497866)
+
+[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcRzDsPhGdxnxlngVPFWrXzmncnmcbfFggxMjsDftBlHzzngbllwsBnKTGxdQqTLPsWRKtGCV)
+
+
+[![MAIS USADAS](https://github-readme-stats.vercel.app/api/top-langs/?username=Renan-Marcelino)](https://github.com/Renan-Marcelino/github-readme-stats)
