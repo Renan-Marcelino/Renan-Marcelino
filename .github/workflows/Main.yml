@@ -1,26 +1,20 @@
-name: Gerar Cobra
+name: Generate Datas
 
 on:
   schedule:
     # A cada 6 horas
-    - cron: "0 */12 * * *"
-
+    - cron: "* */12 * * *"
 workflow_dispatch:
 
 jobs:
   build:
+    name: Jobs to updade datas
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v2
-
-      - name: Gera a cobra
         uses: Platane/snk@master
-        id: cobra-gif
+        id: snake-gif
         with:
           github_user_name: Renan-Marcelino
-          gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - name: Mostra o status da compilação
