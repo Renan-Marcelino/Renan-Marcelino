@@ -17,6 +17,8 @@
     <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
     <img align="center" alt="PYTON" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+    <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+    <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
     <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div><br/>
 
@@ -30,6 +32,8 @@ Estudante de Analise e Desenvolvimento de Sistemas no Centro Universitario Senac
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcRzDsPhGdxnxlngVPFWrXzmncnmcbfFggxMjsDftBlHzzngbllwsBnKTGxdQqTLPsWRKtGCV)
 
   ![Snake animation](https://github.com/Sally-maker/Sally-maker/blob/output/github-contribution-grid-snake.svg)
+
+
 
 
 
