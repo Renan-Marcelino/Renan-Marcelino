@@ -3,6 +3,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-m-b2218113a)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Renan-Marcelino)
 [![DIO.me](https://github.com/Renan-Marcelino/Renan-Marcelino/assets/79055100/8758238b-0414-46da-882c-4fd304e716b5)](https://www.dio.me/users/renanmarcelinodass)
+[![Drive](https://github.com/Renan-Marcelino/Renan-Marcelino/assets/79055100/353722b8-d538-4aa5-a112-b334d2516d18)](https://drive.google.com/drive/folders/1gwQJKTlcs81lhe4huzKYOO_F-pyUWQYF?usp=drive_link)
+
 [![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/~)
 
 
