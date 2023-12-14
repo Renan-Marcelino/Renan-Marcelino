@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-m-b2218113a)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Renan-Marcelino)
-![Logo]([https://github.com/seu-usuario/seu-repositorio/raw/main/caminho-para-a-imagem/sua-imagem.png](https://github.com/Renan-Marcelino/Renan-Marcelino/blob/main/README.md))
+![DIO.ME](https://www.google.com/imgres?imgurl=https%3A%2F%2Fyt3.googleusercontent.com%2FRY9EgTzObHVA8RGhlfVsrHPtKpxhWAbW16T_1I8e74kfjqTbunABUQWBIfOlvzXckSRTMBds%3Ds900-c-k-c0x00ffffff-no-rj&tbnid=LGTIVs1W9TPdVM&vet=12ahUKEwi16LqG1I2DAxWnspUCHR-bDRwQMygKegQIARBh..i&imgrefurl=https%3A%2F%2Fwww.youtube.com%2Fc%2FDigitalInnovationOne%2Fabout&docid=IF5V1m_E0OHLrM&w=900&h=900&q=dio%20.%20me&ved=2ahUKEwi16LqG1I2DAxWnspUCHR-bDRwQMygKegQIARBh)
 
 [![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/~)
 
