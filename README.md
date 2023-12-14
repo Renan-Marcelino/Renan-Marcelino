@@ -2,7 +2,8 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-m-b2218113a)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Renan-Marcelino)
-[![DIO.me](https://www.google.com/imgres?imgurl=https%3A%2F%2Fhermes.dio.me%2Farticles%2Fcover%2F364fb700-4c6f-482b-91fe-6c66b31ae8a1.jpg&tbnid=E8gSTW3ZvpLTzM&vet=12ahUKEwi16LqG1I2DAxWnspUCHR-bDRwQMygBegQIARBN..i&imgrefurl=https%3A%2F%2Fwww.dio.me%2Farticles%2Fcomunicado-a-todos&docid=-SNkz1-cjy1MXM&w=1073&h=481&q=dio%20.%20me&ved=2ahUKEwi16LqG1I2DAxWnspUCHR-bDRwQMygBegQIARBN)](https://web.dio.me/users/renanmarcelinodass?tab=skills&page=1)
+![Logo](https://github.com/seu-usuario/seu-repositorio/raw/main/caminho-para-a-imagem/sua-imagem.png)
+
 [![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/~)
 
 
