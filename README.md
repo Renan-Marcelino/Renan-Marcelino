@@ -29,13 +29,10 @@ Estudante de Analise e Desenvolvimento de Sistemas no Centro Universitario Senac
 
 ### Contato via WhatsApp:
 
-[![WHATS](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5511956497866) ![click-mao](https://github.com/Renan-Marcelino/Renan-Marcelino/assets/79055100/46c18671-5fd9-4f06-8c42-379ed203c56c)
-
-
+[![WHATS](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5511956497866) [![click (1)](https://github.com/Renan-Marcelino/Renan-Marcelino/assets/79055100/111db4c6-b604-49d9-907f-34fc27184b1e)](https://wa.me/+5511956497866)
 ### Contato via Gmail:
 
-[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcRzDsPhGdxnxlngVPFWrXzmncnmcbfFggxMjsDftBlHzzngbllwsBnKTGxdQqTLPsWRKtGCV) ![click-mao](https://github.com/Renan-Marcelino/Renan-Marcelino/assets/79055100/46c18671-5fd9-4f06-8c42-379ed203c56c)
-
+[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcRzDsPhGdxnxlngVPFWrXzmncnmcbfFggxMjsDftBlHzzngbllwsBnKTGxdQqTLPsWRKtGCV) [![click (1)](https://github.com/Renan-Marcelino/Renan-Marcelino/assets/79055100/111db4c6-b604-49d9-907f-34fc27184b1e)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcRzDsPhGdxnxlngVPFWrXzmncnmcbfFggxMjsDftBlHzzngbllwsBnKTGxdQqTLPsWRKtGCV)
 
  ![Snake animation](https://github.com/Sally-maker/Sally-maker/blob/output/github-contribution-grid-snake.svg)
 
