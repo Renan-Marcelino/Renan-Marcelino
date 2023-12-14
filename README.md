@@ -2,6 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-m-b2218113a)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Renan-Marcelino)
+[![DIO.me](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fc%2FDigitalInnovationOne%2Fabout&psig=AOvVaw14uS-UJRYrUoIL4hxGQKq4&ust=1702599114049000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCqmZHSjYMDFQAAAAAdAAAAABAD](https://web.dio.me/users/renanmarcelinodass?tab=skills&page=1)
 [![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/~)
 
 
