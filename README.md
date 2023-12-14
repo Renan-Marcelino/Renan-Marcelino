@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-m-b2218113a)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Renan-Marcelino)
-![Logo](https://github.com/seu-usuario/seu-repositorio/raw/main/caminho-para-a-imagem/sua-imagem.png)
+![Logo]([https://github.com/seu-usuario/seu-repositorio/raw/main/caminho-para-a-imagem/sua-imagem.png](https://github.com/Renan-Marcelino/Renan-Marcelino/blob/main/README.md))
 
 [![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/~)
 
