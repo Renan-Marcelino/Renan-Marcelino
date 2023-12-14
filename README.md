@@ -4,11 +4,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Renan-Marcelino)
 [![DIO.me](https://github.com/Renan-Marcelino/Renan-Marcelino/assets/79055100/8758238b-0414-46da-882c-4fd304e716b5)](https://www.dio.me/users/renanmarcelinodass)
 [![Drive](https://github.com/Renan-Marcelino/Renan-Marcelino/assets/79055100/353722b8-d538-4aa5-a112-b334d2516d18)](https://drive.google.com/drive/folders/1gwQJKTlcs81lhe4huzKYOO_F-pyUWQYF?usp=drive_link)
-
 [![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/~)
 
-
-![Renan Marcelino GitHub stats](https://github-readme-stats.vercel.app/api?username=Renan-Marcelino&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Renan-Marcelino&show_icons=true&theme=synthwave)
 
 [![MAIS USADAS](https://github-readme-stats.vercel.app/api/top-langs/?username=Renan-Marcelino)](https://github.com/Renan-Marcelino/github-readme-stats)
 
@@ -30,13 +28,16 @@
 Estudante de Analise e Desenvolvimento de Sistemas no Centro Universitario Senac no 3° Semestre, Buscando a Primeira oportunidade na Area da Tecnologia.
 
 ### Contato via WhatsApp:
-[![WHATS](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5511956497866)
+
+[![WHATS](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5511956497866) ![click-mao](https://github.com/Renan-Marcelino/Renan-Marcelino/assets/79055100/46c18671-5fd9-4f06-8c42-379ed203c56c)
+
 
 ### Contato via Gmail:
 
-[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcRzDsPhGdxnxlngVPFWrXzmncnmcbfFggxMjsDftBlHzzngbllwsBnKTGxdQqTLPsWRKtGCV)
+[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcRzDsPhGdxnxlngVPFWrXzmncnmcbfFggxMjsDftBlHzzngbllwsBnKTGxdQqTLPsWRKtGCV) ![click-mao](https://github.com/Renan-Marcelino/Renan-Marcelino/assets/79055100/46c18671-5fd9-4f06-8c42-379ed203c56c)
 
-  ![Snake animation](https://github.com/Sally-maker/Sally-maker/blob/output/github-contribution-grid-snake.svg)
+
+ ![Snake animation](https://github.com/Sally-maker/Sally-maker/blob/output/github-contribution-grid-snake.svg)
 
 
 
