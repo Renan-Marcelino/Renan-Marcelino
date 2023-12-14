@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-m-b2218113a)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Renan-Marcelino)
-[![DIO.me](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dio.me%2Farticles%2Fcomunicado-a-todos&psig=AOvVaw2dfcEzbGq9ish0WWKkis-v&ust=1702599454590000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPjGqbDTjYMDFQAAAAAdAAAAABAI)](https://web.dio.me/users/renanmarcelinodass?tab=skills&page=1](https://www.google.com/imgres?imgurl=https%3A%2F%2Fhermes.dio.me%2Fassets%2Fdiome%2Flogo.png&tbnid=bBka22ODlv6CvM&vet=12ahUKEwjyyOCu042DAxUGlJUCHbhECMwQMygCegQIARBP..i&imgrefurl=https%3A%2F%2Fwww.dio.me%2Fbootcamp&docid=iqWeFPGqcniWYM&w=1334&h=513&itg=1&q=dio%20.%20me&ved=2ahUKEwjyyOCu042DAxUGlJUCHbhECMwQMygCegQIARBP))
+[![DIO.me](https://www.google.com/imgres?imgurl=https%3A%2F%2Fhermes.dio.me%2Farticles%2Fcover%2F364fb700-4c6f-482b-91fe-6c66b31ae8a1.jpg&tbnid=E8gSTW3ZvpLTzM&vet=12ahUKEwi16LqG1I2DAxWnspUCHR-bDRwQMygBegQIARBN..i&imgrefurl=https%3A%2F%2Fwww.dio.me%2Farticles%2Fcomunicado-a-todos&docid=-SNkz1-cjy1MXM&w=1073&h=481&q=dio%20.%20me&ved=2ahUKEwi16LqG1I2DAxWnspUCHR-bDRwQMygBegQIARBN)](https://web.dio.me/users/renanmarcelinodass?tab=skills&page=1)
 [![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/~)
 
 
