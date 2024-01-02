@@ -61,4 +61,11 @@ Estudante de Analise e Desenvolvimento de Sistemas no Centro Universitario Senac
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Renan-Marcelino&repo=github-readme-stats)](https://github.com/Renan-Marcelino/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Renan-Marcelino&repo=Desafios--CSharp-.Net--DIO.me)](https://github.com/Renan-Marcelino/Desafios--CSharp-.Net--DIO.me)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Renan-Marcelino&repo=trilha-net-poo-desafio)](https://github.com/Renan-Marcelino/trilha-net-poo-desafio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Renan-Marcelino&repo=trilha-net-fundamentos-desafio)](https://github.com/Renan-Marcelino/trilha-net-fundamentos-desafio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Renan-Marcelino&repo=trilha-net-testes-unitarios-desafio)](https://github.com/Renan-Marcelino/trilha-net-testes-unitarios-desafio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Renan-Marcelino&repo=Pokedex)](https://github.com/Renan-Marcelino/Pokedex)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Renan-Marcelino&repo=Desafios--Algular-TypeScript--JS--DIO.me)](https://github.com/Renan-Marcelino/Desafios--Algular-TypeScript--JS--DIO.me)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Renan-Marcelino&repo=Angular.Blog-DIO.me)](https://github.com/Renan-Marcelino/Angular.Blog-DIO.me)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Renan-Marcelino&repo=Desafios--CSharp-.Net--DIO.me)](https://github.com/Renan-Marcelino/Desafios--CSharp-.Net--DIO.me)
