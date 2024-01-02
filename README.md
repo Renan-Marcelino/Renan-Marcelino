@@ -8,7 +8,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Renan-Marcelino&show_icons=true&theme=synthwave)
 
-![MAIS USADAS](https://github-readme-stats.vercel.app/api/top-langs/?username=Renan-Marcelino)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Renan-Marcelino&layout=compact)](https://github.com/Renan-Marcelino/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia 
 
