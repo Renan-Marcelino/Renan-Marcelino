@@ -46,3 +46,19 @@ Estudante de Analise e Desenvolvimento de Sistemas no Centro Universitario Senac
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Renan-Marcelino&repo=github-readme-stats)](https://github.com/Renan-Marcelino/github-readme-stats)
